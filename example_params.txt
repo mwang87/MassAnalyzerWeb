@@ -1,0 +1,6 @@
+charge	2-2
+cid_energy	40
+isolation_width	3
+resolution	7500
+activation_time	50
+instrument LTQ
